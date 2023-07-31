@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kreait/firebase-php": "^5.20",
+        "twbs/bootstrap-icons": "^1.8"
+    }
+}
